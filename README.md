@@ -16,6 +16,11 @@ B.Tech Computer Science graduate pursuing a Data Analytics certification. Skille
 
 ## 📌 Projects
 
+### 📈 Data Analytics and Business Intelligence
+- Data Analysis (Python): Conducted data cleaning, exploratory data analysis (EDA), visualization, and insights generation using Python, Pandas, NumPy, Matplotlib, and Seaborn. 
+- Power BI: Built interactive dashboards to visualize KPIs, trends, and metrics. 
+- Data Analysis (Excel): Analyzed data and created dashboards using Pivot Tables, formulas, and charts.
+
 ### 🧠 NeuroPulse – Parkinson’s Fall Detection & Monitoring Device
 - Collected and cleaned real-time sensor data from an ESP8266-based wearable device.  
 - Performed EDA to identify trends, anomalies, and key patterns using Python.  
