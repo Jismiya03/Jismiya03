@@ -56,10 +56,10 @@ B.Tech Computer Science graduate pursuing a Data Analytics certification. Skille
 ---
 
 ## 📜 Certifications
-- Python - LCC Computer Education (2024)  
-- Data Science & Machine Learning Workshop - IIIT Kottayam (2024)  
-- Artificial Intelligence - ICT Academy (2024)  
-- LEEP 2024 - EY GDS (Leadership & Entrepreneurship)
+- Python - LCC Computer Education, 2024  
+- Data Science & Machine Learning Workshop - IIIT Kottayam, 2024 
+- Artificial Intelligence - ICT Academy, 2024  
+- LEEP 2024 - Leadership & Entrepreneurship Enrichment Programme, EY GDS, 2024
 
 ---
 
