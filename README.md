@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science graduate | 📊 Aspiring Data Analyst  
 
 ## 🔍 About Me
-B.Tech Computer Science graduate pursuing a Data Analytics certification. Skilled in Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, SQL, and Excel, with hands-on experience in data cleaning, visualization, exploratory data analysis, and basic statistical analysis. Detail-oriented and analytical, seeking a Data Analyst role to apply skills in data interpretation, reporting, and insight generation.
+B.Tech Computer Science and Engineering graduate currently pursuing a Python Full Stack Development course. Currently building a strong foundation in Python. I also have a background in Data Analytics, with knowledge of SQL, Power BI, Excel, Pandas, NumPy, Matplotlib, and Seaborn. Interested in software development and continuously learning new technologies to build my skills and grow as a developer.
 
 ---
 
