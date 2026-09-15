@@ -1,6 +1,6 @@
 # Hi, I'm Jismiya 👋
 
-🎓 B.Tech Computer Science graduate | 📊 Aspiring Data Analyst  
+🎓 B.Tech Computer Science and Engineering graduate | 💻 Aspiring Python Developer 
 
 ## 🔍 About Me
 B.Tech Computer Science and Engineering graduate currently pursuing a Python Full Stack Development course. Currently building a strong foundation in Python. I also have a background in Data Analytics, with knowledge of SQL, Power BI, Excel, Pandas, NumPy, Matplotlib, and Seaborn. Interested in software development and continuously learning new technologies to build my skills and grow as a developer.
@@ -8,28 +8,30 @@ B.Tech Computer Science and Engineering graduate currently pursuing a Python Ful
 ---
 
 ## 🛠️ Technical Skills
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Data Analysis:** Data Cleaning, Data Visualization, EDA, Basic Statistics  
-- **Tools:** SQL, Power BI, Excel  
+- **Python:** Basic Python
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Database:** SQL
+- **Tools:** Power BI, Excel
 
 ---
 
 ## 📌 Projects
 
-### 📈 Data Analytics and Business Intelligence
-- Data Analysis (Python): Conducted data cleaning, exploratory data analysis (EDA), visualization, and insights generation using Python, Pandas, NumPy, Matplotlib, and Seaborn. 
-- Power BI: Built interactive dashboards to visualize KPIs, trends, and metrics. 
-- Data Analysis (Excel): Analyzed data and created dashboards using Pivot Tables, formulas, and charts.
-
 ### 🧠 NeuroPulse - Parkinson’s Fall Detection & Monitoring Device
-- Collected and cleaned real-time sensor data from an ESP8266-based wearable device.  
-- Performed EDA to identify trends, anomalies, and key patterns using Python.  
-- Applied Logistic Regression to generate basic predictive insights and documented findings.
-
+- Developed a health monitoring and fall detection system using an ESP8266-based wearable device.
+- Collected and cleaned real-time sensor data from the device.
+- Performed data analysis and visualization using Python.
+- Applied Logistic Regression for basic predictive analysis.
 ### 💊 HealthSync - Real-Time Health Monitoring Band
-- Designed a real-time health tracking system using ESP32 and sensors.  
-- Built a web interface for data visualization using HTML, CSS, JavaScript, and PHP.  
-- Focused on presenting health metrics in an interpretable and user-friendly format.
+- Developed a real-time health monitoring system using ESP32 and sensors.
+- Built a web interface to display health-related data.
+- Worked on the front-end interface using HTML, CSS, and JavaScript.
+- Focused on presenting health information in a simple and user-friendly format.
+### 📊 Data Analytics and Business Intelligence
+- Performed data cleaning, exploratory data analysis, and visualization using Python.
+- Used Pandas, NumPy, Matplotlib, and Seaborn for data analysis.
+- Created interactive Power BI dashboards to visualize KPIs, trends, and metrics.
+- Analyzed data using Excel with Pivot Tables, formulas, and charts.
 
 ---
 
