@@ -3,12 +3,12 @@
 🎓 B.Tech Computer Science and Engineering graduate | 💻 Aspiring Python Developer 
 
 ## 🔍 About Me
-B.Tech Computer Science and Engineering graduate currently pursuing a Python Full Stack Development course. Currently building a strong foundation in Python. I also have a background in Data Analytics, with knowledge of SQL, Power BI, Excel, Pandas, NumPy, Matplotlib, and Seaborn. Interested in software development and continuously learning new technologies to build my skills and grow as a developer.
+I am a B.Tech graduate in Computer Science and Engineering, currently working as a Software Developer Intern at SMEC Technologies, where I am currently learning Python Full Stack Development. I have also completed a Data Analytics certification course, with knowledge of SQL, Python, Power BI, and data visualization. I am passionate about building practical applications and continuously improving my technical skills.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Python:** Basic Python
+- **Programming:** Python
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Database:** SQL
 - **Tools:** Power BI, Excel
