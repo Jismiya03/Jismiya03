@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science and Engineering graduate | 💻 Aspiring Python Developer 
 
 ## 🔍 About Me
-I am a B.Tech graduate in Computer Science and Engineering, currently working as a Software Developer Intern at SMEC Technologies, where I am currently learning Python Full Stack Development. I have also completed a Data Analytics certification course, with knowledge of SQL, Python, Power BI, and data visualization. I am passionate about building practical applications and continuously improving my technical skills.
+I am a B.Tech graduate in Computer Science and Engineering, currently working as a Software Developer Intern at SMEC Technologies, gaining hands-on experience in Python Full Stack Development. Skilled in Python, SQL, HTML, CSS, and JavaScript, I am passionate about developing web applications and improving my full-stack development skills. I am seeking an entry-level Python Developer role where I can apply my technical knowledge, problem-solving abilities, and contribute to real-world projects.
 
 ---
 
