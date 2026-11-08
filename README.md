@@ -9,6 +9,7 @@ I am a B.Tech graduate in Computer Science and Engineering, currently working as
 
 ## 🛠️ Technical Skills
 - **Programming:** Python
+- **Web Development:** HTML5, CSS3, JavaScript
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Database:** SQL
 - **Tools:** Power BI, Excel
